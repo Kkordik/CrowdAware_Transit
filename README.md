@@ -58,6 +58,9 @@ So the workflow would be:
 Well, we just get real-time data on how many passengers entered on each stop and minusing previously forecasted data on how mahy passengers would exit on each stop (and also we can edit it for example based on anomalies in real-time enters data) and the result is how many passengers are in the bus right now,
 for estimating it for future stops (between bus and passenger) we do forecast for how many passengers will enter on each stop and minusing the same as earlier but for other stops and times.
 
-**Boom** thats it, later other data like weather or some big events can be added to the process for better accuracy but for MVP it is enough.
 
-Feel free to use my code and idea. Would appreceate if you refer me or took me on a job :)
+### **Boom** 
+
+Thats it, later other data like weather or some big events can be added to the process for better accuracy but for MVP it is enough.
+
+**Feel free to use my code and idea. Would appreceate if you refer me or took me on a job :)**
